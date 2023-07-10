@@ -1,5 +1,5 @@
 # vi
 requires {
-      nodejs 
-      live-server(npm)
+      nodejs; 
+      live-server(npm);
     }
